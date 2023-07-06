@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ...
 - https://twitter.com/kirwacory
-- 
+- https://linkedin.com/in/melly-kirwa-37587511a/
 
 <!---
 Melly-Kirwa/Melly-Kirwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
